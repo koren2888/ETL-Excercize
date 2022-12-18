@@ -13,5 +13,5 @@ pip install -r requirements.txt
 ```sh
 python main.py
 ```
-###Note...
+## Note...
 When running the app, you won't be able to access the API until you close graph window :heart:
