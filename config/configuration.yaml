@@ -1,0 +1,7 @@
+elastic:
+  init_data: False
+  host: http://localhost:9200
+
+data:
+  folder: data
+  shows_filename: netflix_titles.csv
